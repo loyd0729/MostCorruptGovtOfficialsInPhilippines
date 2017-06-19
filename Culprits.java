@@ -33,16 +33,8 @@ public class Culprits {
         this.pocketedMoney = pocketedMoney;
     }
 
-    public String getName() {
-        return name;
-    }
-
     public String getPosition() {
         return position;
-    }
-
-    public long getPocketedMoney() {
-        return pocketedMoney;
     }
 
     public String getPocketedMoneyFormatted() {
